@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Submission1-BPAI</string>
+    <string name="invalid_email">Invalid Email Format</string>
+    <string name="invalid_password">Minimum 6 Characters</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="password_error_warning">Password Minimum 6 Characters!</string>
+    <string name="must_not_empty">\" can not be empty!\"</string>
+    <string name="isoFormat">yyyy-MM-dd\'T\'HH:mm:ss.SSSX</string>
+    <string name="not_get_permission">Not getting permission</string>
+    <string name="input_picture_first">Please input picture first</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="not_have_account">Don\'t have an account yet? Sign up now!</string>
+    <string name="stories">Stories</string>
+    <string name="button_add_story">Button add story</string>
+    <string name="button_logout">Button logout</string>
+    <string name="register_noew">Signup Now!</string>
+    <string name="name">Name</string>
+    <string name="i_have_account">I have account</string>
+    <string name="display_image_of_users_story">Display Image of Users story</string>
+    <string name="capture_camera">Capture Camera</string>
+    <string name="rotate_camera">Rotate Camera</string>
+    <string name="image_back">Image Back</string>
+    <string name="iv_close_menu">iv close menu</string>
+    <string name="add_to_story">Add to story</string>
+    <string name="preview_of_uploaded_image_file">Preview of uploaded image file</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="post">Upload</string>
+    <string name="description_item">Kaizoku ni naru asdadhauwduahduahwaudhawudhuahawudhauhdauwdhawduhawuhduahduahduawuhduadhua</string>
+    <string name="selengkapnya">more</string>
+    <string name="date">29 April, 09:11</string>
+    <string name="change_language">Change Languange</string>
+    <string name="logout">Logout</string>
+    <string name="button_setting">Button setting</string>
+    <string name="setting">Setting</string>
+    <string name="failed_open_camera">Failed to bring up the camera.</string>
+
+</resources>
